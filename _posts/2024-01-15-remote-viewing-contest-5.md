@@ -4,7 +4,7 @@ description: Remote viewing contest for the ZenPandaCoin community.
 author: Lin
 date: 2024-01-15 00:00:00 +0800
 categories: [Weekly Remote Viewing Contest, Miss]
-tags: [Remote Viewing, Contest, Practice, Miss]
+tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
   path: /pictures/contests/5-lin-1.jpeg
