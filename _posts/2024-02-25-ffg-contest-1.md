@@ -1,6 +1,6 @@
 ---
 title: Win $500 With Your Intuitive Skill
-description: Remote Viewing Contest from Future Forecasting Group
+description: Remote Viewing Contest for the Future Forecasting Group
 author: Lin
 date: 2024-02-25 00:00:00 +0800
 categories: [Future Forecasting Group]
