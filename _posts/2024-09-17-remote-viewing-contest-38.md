@@ -1,13 +1,13 @@
 ---
-title: Remote Viewing Contest No.38 ### 改內文
+title: Remote Viewing Contest No.38
 description: Remote viewing contest for the ZenPandaCoin community.
 author: Lin
 date: 2024-09-17 00:00:00 +0800
-categories: [Weekly Remote Viewing Contest, Miss] ### 改內文
-tags: [Remote Viewing, Contest, Practice] ### 改內文
-pin: false ### 改內文
+categories: [Weekly Remote Viewing Contest, Miss]
+tags: [Remote Viewing, Contest, Practice]
+pin: false
 image:
-  path: /pictures/contests/38-dumbredole-2.jpeg ### 改內文
+  path: /pictures/contests/38-ninakachina-2.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -109,20 +109,9 @@ _Source: vacishevil_
 None
 
 
-↓↓↓ 改內文 ↓↓↓
-
-1. [**BirdieM122782**][Winner]
-
-↑↑↑ 改內文 ↑↑↑
-
-
 ## Group Discussion
 
-↓↓↓ 改內文 ↓↓↓
-
-{% include embed/youtube.html id='rwW4Ftluyt0' %}
-
-↑↑↑ 改內文 ↑↑↑
+{% include embed/youtube.html id='tLwtC9f_ngc' %}
 
 
 ## Other Links
@@ -132,11 +121,6 @@ None
 3. [**Target Source**][Target Source]
 
 
-↓↓↓ 改內文 ↓↓↓
-
 [Google Doc]: https://docs.google.com/document/d/1Iu-J0Eg_mdMHEuAzjPPfrt8Oa_ZTPNeHHcIH7LrCiT4/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1835862029695152449
 [Target Source]: https://docs.google.com/document/d/1Iu-J0Eg_mdMHEuAzjPPfrt8Oa_ZTPNeHHcIH7LrCiT4/edit
-[Winner]: https://x.com/BirdieM122782
-
-↑↑↑ 改內文 ↑↑↑
