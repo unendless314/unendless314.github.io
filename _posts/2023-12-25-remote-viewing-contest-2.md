@@ -41,8 +41,18 @@ Circle, land, yellow, brown, subjects(few), structure, movement, something movin
 _First Visual_
 
 ### 3. hottubtrble
-A kitchen or room with big windows. Sliding doors it seems.
 
+![Desktop View](/pictures/contests/2-jeff-1.png){: width="972" height="589" }
+_First Visual_
+
+![Desktop View](/pictures/contests/2-jeff-2.png){: width="972" height="589" }
+_Second Visual_
+
+![Desktop View](/pictures/contests/2-jeff-3.png){: width="972" height="589" }
+_Third Visual_
+
+![Desktop View](/pictures/contests/2-jeff-4.png){: width="972" height="589" }
+_Fourth Visual_
 
 
 ## Target Reveal

@@ -3,8 +3,8 @@ title: Remote Viewing Contest No.23
 description: Remote viewing contest for the ZenPandaCoin community.
 author: Lin
 date: 2024-05-28 00:00:00 +0800
-categories: [Weekly Remote Viewing Contest, Hit]
-tags: [Remote Viewing, Contest, Practice, Jeff, Snowblind]
+categories: [Weekly Remote Viewing Contest, Miss]
+tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
   path: /pictures/contests/23-jeff-2.jpeg
@@ -80,8 +80,7 @@ _Source: The Farsight Institute_
 
 ## Winner
 
-1. [**hottubtrble**][Winner]
-2. **Snowblind**
+None
 
 
 ## Group Discussion
@@ -99,4 +98,3 @@ _Source: The Farsight Institute_
 [Google Doc]: https://docs.google.com/document/d/1dOCU88zGTIjxOKHUgAPR6cgkx2nW3e_FtJHi1kc0Y1w/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1795268650196488534
 [Target Source]: https://www.farsightprime.com/free-farsight-content/videos/a-base-on-mars-farsight
-[Winner]: https://x.com/hottubtrble

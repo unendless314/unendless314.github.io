@@ -16,7 +16,7 @@ timezone: Asia/Taipei
 
 title: ZenPandaCoin # the main title
 
-tagline: A test free website for SITN # it will display as the subtitle
+tagline: A free test website for SITN # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A remote viewing website for the crypto community.
