@@ -26,7 +26,7 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 ## Participants
 
 1. hottubtrble
-2. snowblind1
+2. Snowblind1
 3. coco_tankguns
 4. ChunChiaoLin
 5. marsmemedid
@@ -51,7 +51,7 @@ _Fourth Visual_
 ![Desktop View](/pictures/contests/24-jeff-5.jpeg){: width="972" height="589" }
 _Fifth Visual_
 
-### 2. snowblind1
+### 2. Snowblind1
 
 ![Desktop View](/pictures/contests/24-snowblind-1.jpeg){: width="972" height="589" }
 _First Visual_

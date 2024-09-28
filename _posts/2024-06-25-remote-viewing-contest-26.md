@@ -27,7 +27,7 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 
 1. ChunChiaoLin
 2. hottubtrble
-3. snowblind1
+3. Snowblind1
 
 
 ## Collected Data
@@ -48,7 +48,7 @@ _Second Visual_
 ![Desktop View](/pictures/contests/26-jeff-3.jpeg){: width="972" height="589" }
 _Third Visual_
 
-### 3. snowblind1
+### 3. Snowblind1
 
 ![Desktop View](/pictures/contests/26-snowblind-1.jpeg){: width="972" height="589" }
 _First Visual_

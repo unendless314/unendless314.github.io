@@ -29,7 +29,7 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 2. ChunChiaoLin
 3. hottubtrble
 4. Maytag
-5. snowblind1
+5. Snowblind1
 
 
 ## Collected Data
@@ -70,7 +70,7 @@ _Second Visual_
 
 ## Target Reveal
 
-> https://www.farsightprime.com/videos/mysteries-12-phoenixlights-1080p
+> https://farsight.org/FarsightPress/Phoenix_Lights_main_page
 
 ### The Phoenix Lights
 
