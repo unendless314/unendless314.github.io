@@ -53,7 +53,7 @@ _First Visual_
 
 ### 3. Dumbredole
 
-![Desktop View](/pictures/contests/36-Dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/36-dumbredole-1.jpeg){: width="972" height="589" }
 _First Visual_
 
 ### 4. leoramking2014
