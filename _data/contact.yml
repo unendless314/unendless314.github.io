@@ -1,14 +1,26 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+# - type: github
+#  icon: "fab fa-github"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+- type: telegram
+  icon: "fa-brands fa-telegram"
+  url: "https://t.me/zpc_global"
+
+- type: discord
+  icon: "fa-brands fa-discord" 
+  url: "https://discord.gg/8mF7JcD8Jf"
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+
+#- type: facebook
+#  icon: "fa-brands fa-facebook"
+#  url: "https://www.facebook.com/profile.php?id=1556885120"
 
 # - type: rss
 # icon: "fas fa-rss"
@@ -31,9 +43,9 @@
 #   icon: 'fa-brands fa-bluesky'
 #   url: ''                   # Fill with your Bluesky profile link
 #
-- type: reddit
-  icon: "fa-brands fa-reddit"
-  url: "https://www.reddit.com/r/liberment/" # Fill with your Reddit profile link
+#- type: reddit
+#  icon: "fa-brands fa-reddit"
+#  url: "https://www.reddit.com/r/liberment/" # Fill with your Reddit profile link
 #
 # - type: threads
 #   icon: 'fa-brands fa-threads'
