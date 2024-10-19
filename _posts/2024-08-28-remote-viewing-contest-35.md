@@ -92,9 +92,9 @@ _Second Visual_
 > https://docs.google.com/document/d/1Q6C_F7mkHtOQYexvZc8JXEEhaiKqeEvvjis6QDVGNx4/edit
 
 
-### Photo of a beach in Palawan
+### Photo of Palawan, Philippines, Underground River
 
-![Desktop View](/pictures/contests/35-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/35-target-1.jpg){: width="972" height="589" }
 _Source: Snowblind from SITN_
 
 
