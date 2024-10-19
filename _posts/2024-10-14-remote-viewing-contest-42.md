@@ -4,7 +4,7 @@ description: Remote viewing contest for the ZenPandaCoin community.
 author: Lin
 date: 2024-10-14 00:00:00 +0800
 categories: [Weekly Remote Viewing Contest, Hit]
-tags: [Remote Viewing, Contest, Practice, Dumbredole]
+tags: [Remote Viewing, Contest, Practice, Dumbredole, NinaKachina]
 pin: false
 image:
   path: /pictures/contests/42-dumbredole-4.jpeg
@@ -73,6 +73,11 @@ _Second Visual_
 
 ![Desktop View](/pictures/contests/42-jeff-3.jpg){: width="972" height="589" }
 _Third Visual_
+
+### 5. vanquish-evil
+
+![Desktop View](/pictures/contests/42-vanquishevil-1.jpg){: width="972" height="589" }
+_First Visual_
 
 
 ## Target Reveal
