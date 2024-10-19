@@ -106,11 +106,7 @@ _Source: Future Forecasting Group_
 
 ## Group Discussion
 
-↓↓↓ 改內文 ↓↓↓
-
-{% include embed/youtube.html id='F6McfOPVA3w' %}
-
-↑↑↑ 改內文 ↑↑↑
+{% include embed/youtube.html id='RuGKqUutGGQ' %}
 
 
 ## Other Links
