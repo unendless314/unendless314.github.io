@@ -89,6 +89,8 @@ _First Visual_
 
 {% include embed/youtube.html id='F6McfOPVA3w' %}
 
+{% include embed/youtube.html id='dES_SRA_5Tg' %}
+
 FONNER STONES SOLSTICE CEREMONY / FONNER WOODS, TERRAPIN / JUNE 21, 2025
 
 If there is civil war, unrest, political violence between parties in the United States in the near future, then the viewer will perceive a bright sunrise, with beams of sunlight coming from the northeast horizon through Fonner Pass, with thousands of people at a festive ceremony. The sun will reflect off mirrors held by participants at the Solstice Event. The viewer will hear gongs sounding, bells ringing, and will see maidens dancing, birds being released from cages, and people tossing handfuls of wheat into the air. A celebration.
