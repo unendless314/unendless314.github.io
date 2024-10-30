@@ -103,4 +103,4 @@ Didn't Record
 
 [Google Doc]: https://docs.google.com/document/d/16PtOCQs_zpM7LHcFU5un7yGiiIYZTJ39IAG6kuiGqAc/edit
 [Twitter Post]: https://twitter.com/ZenPandaCoin/status/1741751231356567870
-[Target Source]: https://farsight.org/sponsors/PoolB/t146
+[Target Source]: https://farsight.org/sponsors/PoolB/jumbledpoollistB

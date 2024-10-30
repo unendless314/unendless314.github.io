@@ -96,4 +96,4 @@ None
 
 [Google Doc]: https://docs.google.com/document/d/1oflPUFEzomumULUZyS_VP_0nZOVyGoLhTqhnVeRBfZs/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1785372152310681789
-[Target Source]: https://farsight.org/sponsors/PoolB/t211
+[Target Source]: https://farsight.org/sponsors/PoolB/jumbledpoollistB

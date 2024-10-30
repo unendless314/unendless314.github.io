@@ -100,5 +100,5 @@ _Source: The Farsight Institute_
 [Google Doc]: https://docs.google.com/document/d/1eIQZJKzL5FvmOfu_en8ZfjQAqEvvJUNwO5FAbKcps04/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1751811573562392832
 [Twitter Space]: https://x.com/ZenPandaCoin/status/1753788376921301369
-[Target Source]: https://farsight.org/sponsors/PoolC/t71
+[Target Source]: https://farsight.org/sponsors/PoolC/jumbledpoollistC
 [Winner]: https://x.com/mixlix2

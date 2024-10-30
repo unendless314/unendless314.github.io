@@ -76,5 +76,5 @@ _Source: The Farsight Institute_
 [Google Doc]: https://docs.google.com/document/d/1PplMIkBuVRoESvZgmn-6zEG2aaSE4OcSEiwwWpji7r0/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1759619321645666584
 [Twitter Space]: https://x.com/ZenPandaCoin/status/1761398384190214608
-[Target Source]: https://farsight.org/sponsors/PoolA/t213
+[Target Source]: https://farsight.org/sponsors/PoolA/
 [Winner]: https://x.com/hottubtrble

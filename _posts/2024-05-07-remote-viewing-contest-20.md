@@ -81,4 +81,4 @@ None
 
 [Google Doc]: https://docs.google.com/document/d/1reONfDiuekV217qjyO_VYkeBA8crR2hmO0uAr0EG-Fc/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1787666493544829435
-[Target Source]: https://farsight.org/sponsors/PoolA/t14
+[Target Source]: https://farsight.org/sponsors/PoolA/

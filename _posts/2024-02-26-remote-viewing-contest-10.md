@@ -88,5 +88,5 @@ _Source: The Farsight Institute_
 [Google Doc]: https://docs.google.com/document/d/10ZSn5K7_4IwGqnrk95X40NCR83UzEB5sfjwxFdrP8rs/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1762055187550835097
 [Twitter Space]: https://x.com/i/spaces/1YqKDgDAVeDxV
-[Target Source]: https://farsight.org/sponsors/PoolC/t27
+[Target Source]: https://farsight.org/sponsors/PoolC/jumbledpoollistC
 [Winner]: https://x.com/hottubtrble

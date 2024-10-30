@@ -103,5 +103,5 @@ _Source: The Farsight Institute_
 
 [Google Doc]: https://docs.google.com/document/d/1Oedk17gZIGMgh_8D1Xhytdc21slIRG8pD-Svll3eemU/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1790199834848448521
-[Target Source]: https://farsight.org/sponsors/PoolA/t34
+[Target Source]: https://farsight.org/sponsors/PoolA/
 [Winner]: https://x.com/leoramking2014

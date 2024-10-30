@@ -76,4 +76,4 @@ Not recorded
 
 [Google Doc]: https://docs.google.com/document/d/1Ab_VCvOk0-g1axZ4T_Nb_tWfe782fcLrin5_2GWAf3Q/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1775195694825116157
-[Target Source]: https://farsight.org/sponsors/PoolC/t33
+[Target Source]: https://farsight.org/sponsors/PoolC/jumbledpoollistC

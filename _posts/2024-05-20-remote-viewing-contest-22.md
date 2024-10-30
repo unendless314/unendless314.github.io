@@ -102,4 +102,4 @@ _Source: The Farsight Institute_
 
 [Google Doc]: https://docs.google.com/document/d/1P8EB8HZCrIUIbEGKRtMZ54fhXQyzo3z_a_R989nxl3Q/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1792544021694550482
-[Target Source]: https://farsight.org/sponsors/PoolC/t22
+[Target Source]: https://farsight.org/sponsors/PoolC/jumbledpoollistC

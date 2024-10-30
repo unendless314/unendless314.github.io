@@ -90,5 +90,5 @@ First time livestream, No sound.
 
 [Google Doc]: https://docs.google.com/document/d/1xlO3wOtw3CnfWJM0mewER0dsoQKoNe2a6eWF1Po9v60/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1777715121445601687
-[Target Source]: https://farsight.org/sponsors/PoolC/t181
+[Target Source]: https://farsight.org/sponsors/PoolC/jumbledpoollistC
 [Winner]: https://x.com/hottubtrble

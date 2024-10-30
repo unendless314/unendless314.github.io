@@ -97,4 +97,4 @@ None
 [Google Doc]: https://docs.google.com/document/d/1gku5nTOSr9JQKobFaqzeAzWrb3kX3noqVq6N106TlIQ/edit
 [Twitter Post]: https://x.com/ZenPandaCoin/status/1764721944006660429
 [Twitter Space]: https://x.com/ZenPandaCoin/status/1766471785002995729
-[Target Source]: https://farsight.org/sponsors/PoolB/t48
+[Target Source]: https://farsight.org/sponsors/PoolB/jumbledpoollistB
