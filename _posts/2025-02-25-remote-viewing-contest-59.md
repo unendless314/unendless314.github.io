@@ -1,25 +1,20 @@
 ---
-title: Remote Viewing Contest No.3 ### 改內文
+title: Remote Viewing Contest No.59
 description: Remote viewing contest for the ZenPandaCoin community.
 author: Lin
-date: 2023-12-25 00:00:00 +0800 ### 改內文
+date: 2025-02-25 00:00:00 +0800
 categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
-pin: true ### 改內文
+pin: false
 image:
-  path: /pictures/contests/2-lin-1.jpeg ### 改內文
+  path: /pictures/contests/59-jeff-1.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
 
 ## Tasking
 
-
-
-
-↓↓↓ 改內文 ↓↓↓
-
-Describe the practice target "36060577".
+Describe the practice target "H15447001".
 
 Post keywords and your wallet address in the comments.
 
@@ -27,97 +22,91 @@ Target reveal on Saturday's livestream.
 
 We will reward 20 USDT worth of ZPC tokens to the best submission, or do a random #airdrop if no one hits.
 
-↑↑↑ 改內文 ↑↑↑
-
-
-
 
 ## Participants
 
-
-
-
-↓↓↓ 改內文 ↓↓↓
-
-1. BirdieM122782
-2. ChunChiaoLin
-3. hottubtrble
-
-↑↑↑ 改內文 ↑↑↑
-
-
+1. jeff
+2. lin
+3. manas
+4. ChatGPT 4o
 
 
 ## Collected Data
 
+### 1. jeff
 
-
-
-↓↓↓ 改內文 ↓↓↓
-
-### 1. BirdieM122782
-
-
-### 2. ChunChiaoLin
-
-
-![Desktop View](/pictures/contests/2-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/59-jeff-1.jpg){: width="972" height="589" }
 _First Visual_
 
-### 3. hottubtrble
+### 2. lin
 
+![Desktop View](/pictures/contests/59-lin-1.jpg){: width="972" height="589" }
+_First Visual_
 
-↑↑↑ 改內文 ↑↑↑
+![Desktop View](/pictures/contests/59-lin-2.jpg){: width="972" height="589" }
+_Second Visual_
 
+### 3. manas
 
+![Desktop View](/pictures/contests/59-manas-1.jpg){: width="972" height="589" }
+_First Visual_
+
+![Desktop View](/pictures/contests/59-manas-2.jpg){: width="972" height="589" }
+_Second Visual_
+
+![Desktop View](/pictures/contests/59-manas-3.jpg){: width="972" height="589" }
+_Third Visual_
+
+### 4. ChatGPT 4o
+
+Stage 1 - Preliminary Impressions:
+• Shape/Form: Predominantly rectangular; elongated or horizontal.
+• Texture: Smooth, possibly reflective.
+• Structure: Solid, firm, stable.
+
+Stage 2 - Sensory Perceptions:
+• Colors: Light colors, possibly white, gray, metallic hues.
+• Temperature: Cool to the touch.
+• Smells: Neutral; no distinct odors.
+• Sounds: Quiet hum, possibly electrical or mechanical.
+
+Stage 3 - Sketch and Spatial Layout:
+• Appears as a flat, elongated structure or object.
+• Surrounded by open space; minimal clutter.
+• Possibly elevated slightly from the ground or base surface.
+• Environment feels controlled, possibly indoors or enclosed area.
+
+Stage 4 - Advanced Impressions:
+• Purpose/Function: Seems functional or technological, possibly designed for interaction or monitoring.
+• Associated with data, communication, or transmission.
+• Feels precise, efficient, and designed for repetitive tasks or continuous operation.
+• Emotion/Atmosphere: Neutral, functional, clinical, and purposeful.
+
+Stage 5-6 - Comprehensive Insight:
+• Could represent electronic equipment, technological infrastructure, or something that facilitates communication or energy transmission.
+• User interaction is minimal but intentional.
+• Underlying sense of “control,” “regulation,” or “monitoring” linked strongly to this target.
 
 
 ## Target Reveal
 
+> https://en.wikipedia.org/wiki/Durupınar_site
 
 
+### Durupınar site
 
-↓↓↓ 改內文 ↓↓↓
-
-> https://www.crviewer.com/targets/120815/120815.htm
-
-
-### 2012/08/15
-
-![Desktop View](/pictures/contests/2-target-1.jpeg){: width="972" height="589" }
-_Source: crviewer The Farsight Institute_
-
-↑↑↑ 改內文 ↑↑↑
-
-
+![Desktop View](/pictures/contests/59-target-1.png){: width="972" height="589" }
+_Source: Dumbredole from SITN_
 
 
 ## Winner
 
-
-
-
-↓↓↓ 改內文 ↓↓↓
-
-1. [**BirdieM122782**][Winner]
-
-↑↑↑ 改內文 ↑↑↑
-
-
+None
 
 
 ## Group Discussion
 
-
-
-
-↓↓↓ 改內文 ↓↓↓
-
-{% include embed/youtube.html id='rKjIiVMJT6Y' %}
-
-↑↑↑ 改內文 ↑↑↑
-
-
+{% include embed/youtube.html id='B0zbJ-99X04' %}
 
 
 ## Other Links
@@ -127,13 +116,6 @@ _Source: crviewer The Farsight Institute_
 3. [**Target Source**][Target Source]
 
 
-
-
-↓↓↓ 改內文 ↓↓↓
-
-[Google Doc]: https://docs.google.com/document/d/1AU8KWZIaWDoKXZn5XUhl9uB4kowDkt2vvvg9cZ9r8rU/edit
-[Twitter Post]: https://x.com/ZenPandaCoin/status/1739292977732948205
-[Target Source]: https://www.crviewer.com/targets/120815/120815.htm
-[Winner]: https://x.com/BirdieM122782
-
-↑↑↑ 改內文 ↑↑↑
+[Google Doc]: https://docs.google.com/document/d/1fSvlnaVz7zRxXxA2oSP8QAdnOPtFvWoaqaUQtwJprXc/edit
+[Twitter Post]: https://x.com/ZenPandaCoin/status/1894390561194610893
+[Target Source]: https://en.wikipedia.org/wiki/Durupınar_site
