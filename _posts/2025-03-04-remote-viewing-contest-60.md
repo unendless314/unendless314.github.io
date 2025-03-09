@@ -35,7 +35,7 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or do a rando
 
 ### 1. jeff
 
-![Desktop View](/pictures/contests/60-jeff-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/60-jeff-1.jpg){: width="972" height="589" }
 _First Visual_
 
 ### 2. lin
@@ -54,13 +54,13 @@ _Fourth Visual_
 
 ### 3. manas
 
-![Desktop View](/pictures/contests/60-manas-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/60-manas-1.jpg){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/60-manas-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/60-manas-2.jpg){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/60-manas-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/60-manas-3.jpg){: width="972" height="589" }
 _Third Visual_
 
 ### 4. ChatGPT 4o
