@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Hit]
 tags: [Remote Viewing, Contest, Practice, mixlix2]
 pin: false
 image:
-  path: /pictures/contests/7-jeff-1.jpeg ### 改內文
+  path: /pictures/contests/7-jeff-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -43,29 +43,29 @@ Man made structure. Longer then wider, gray-ish color. Hard, solid, with a flat 
 -railings
 -a horse?
 
-![Desktop View](/pictures/contests/7-birdie-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/7-birdie-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. leoramking2014
 Don't know why but it was like I was viewing the mountain from your yard Jeff the way it looked.
 
-![Desktop View](/pictures/contests/7-leora-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/7-leora-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 4. ChunChiaoLin
 
-![Desktop View](/pictures/contests/7-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/7-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 5. hottubtrble
 
-![Desktop View](/pictures/contests/7-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/7-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/7-jeff-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/7-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/7-jeff-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/7-jeff-3.webp){: width="972" height="589" }
 _Third Visual_
 
 
@@ -76,7 +76,7 @@ _Third Visual_
 
 ### Pool C T71
 
-![Desktop View](/pictures/contests/7-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/7-target-1.webp){: width="972" height="589" }
 _Source: The Farsight Institute_
 
 

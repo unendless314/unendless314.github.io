@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/25-lin-1.jpeg
+  path: /pictures/contests/25-lin-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -40,31 +40,31 @@ It's like a black current, crowds, bonfires, huge towers and bells.
 
 ### 2. ChunChiaoLin
 
-![Desktop View](/pictures/contests/25-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/25-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/25-lin-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/25-lin-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 3. hottubtrble
 
-![Desktop View](/pictures/contests/25-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/25-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/25-jeff-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/25-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 4. Maytag
 
-![Desktop View](/pictures/contests/25-maytag-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/25-maytag-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 5. Snowblind1
 
-![Desktop View](/pictures/contests/25-snowblind-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/25-snowblind-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/25-snowblind-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/25-snowblind-1.webp){: width="972" height="589" }
 _Second Visual_
 
 

@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/44-lin-2.jpg
+  path: /pictures/contests/44-lin-2.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -35,31 +35,31 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 
 ### 1. NinaKachina
 
-![Desktop View](/pictures/contests/44-ninakachina-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-ninakachina-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. hottubtrble
 
-![Desktop View](/pictures/contests/44-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/44-jeff-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 3. ChunChiaoLin
 
-![Desktop View](/pictures/contests/44-lin-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/44-lin-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-lin-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/44-lin-3.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-lin-3.webp){: width="972" height="589" }
 _Third Visual_
 
 ### 4. vanquish-evil
 
-![Desktop View](/pictures/contests/44-vanquishevil-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-vanquishevil-1.webp){: width="972" height="589" }
 _First Visual_
 
 
@@ -70,10 +70,10 @@ _First Visual_
 
 ### Chess game
 
-![Desktop View](/pictures/contests/44-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-target-1.webp){: width="972" height="589" }
 _Source: Dumbredole from SITN_
 
-![Desktop View](/pictures/contests/44-target-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/44-target-2.webp){: width="972" height="589" }
 _Source: Dumbredole from SITN_
 
 Viewer will describe Knight to F7 on chess game leading to inevitable mate from associated image with the King having no way to go played by human chess players pretending the outcome of the game has real implication for the characters they play in the show for fun on a board as in the associated image of The Prisoner reenactment event

@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/47-dumbredole-2.jpeg
+  path: /pictures/contests/47-dumbredole-2.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -39,54 +39,54 @@ Prize: 20 USD worth of ZPC tokens to the best submission, or random airdrop if n
 
 ### 1. vanquish-evil
 
-![Desktop View](/pictures/contests/47-vanquishevil-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-vanquishevil-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. Manas
 
-![Desktop View](/pictures/contests/47-manas-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-manas-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/47-manas-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-manas-2.webp){: width="972" height="589" }
 _Second Visual_
 
 green wall maybe - rectangular patches alternating with black 
 
 ### 3. Dumbredole
 
-![Desktop View](/pictures/contests/47-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-dumbredole-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/47-dumbredole-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-dumbredole-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/47-dumbredole-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-dumbredole-3.webp){: width="972" height="589" }
 _Third Visual_
 
-![Desktop View](/pictures/contests/47-dumbredole-4.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-dumbredole-4.webp){: width="972" height="589" }
 _Fourth Visual_
 
 There's a vase. Would explain what I thought was kayaking - the stems looked to me like oars sailing 😳. The circle yellow thing was the ornamental paint on vase or on tablecloth. what looked like a screw could be the whole shape of the vase. Also saw a cover, would be the tablecloth. Such a complex scene, the order of everything matters to know how to stack it right. 
 
 ### 4. ChunChiaoLin
 
-![Desktop View](/pictures/contests/47-lin-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 5. Snowblind1
 
-![Desktop View](/pictures/contests/47-snowblind-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-snowblind-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/47-snowblind-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-snowblind-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 6. hottubtrble
 
-![Desktop View](/pictures/contests/47-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/47-jeff-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
 
@@ -97,7 +97,7 @@ _Second Visual_
 
 ### Beekeeper Starting a New Hive
 
-![Desktop View](/pictures/contests/47-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/47-target-1.webp){: width="972" height="589" }
 _Source: NinaKachina from SITN_
 
 

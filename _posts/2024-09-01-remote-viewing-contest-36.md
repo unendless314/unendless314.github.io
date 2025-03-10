@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Hit]
 tags: [Remote Viewing, Contest, Practice, Leora]
 pin: false
 image:
-  path: /pictures/contests/36-leora-1.jpeg
+  path: /pictures/contests/36-leora-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -37,28 +37,28 @@ We will reward 20 USDT worth of ZPC tokens to the winner, or #airdrop 10 USDT to
 
 ### 1. hottubtrble
 
-![Desktop View](/pictures/contests/36-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/36-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/36-jeff-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/36-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/36-jeff-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/36-jeff-3.webp){: width="972" height="589" }
 _Third Visual_
 
 ### 2. vanquish-evil
 
-![Desktop View](/pictures/contests/36-vanquishevil-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/36-vanquishevil-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. Dumbredole
 
-![Desktop View](/pictures/contests/36-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/36-dumbredole-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 4. leoramking2014
 
-![Desktop View](/pictures/contests/36-leora-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/36-leora-1.webp){: width="972" height="589" }
 _First Visual_
 
 
@@ -69,7 +69,7 @@ _First Visual_
 
 ### Describe Ko Wen-je’s current situation and how the ongoing corruption allegations are going to affect him.
 
-![Desktop View](/pictures/contests/36-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/36-target-1.webp){: width="972" height="589" }
 _Source: wikipedia_
 
 

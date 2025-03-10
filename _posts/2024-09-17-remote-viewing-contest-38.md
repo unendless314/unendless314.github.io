@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/38-ninakachina-2.jpg
+  path: /pictures/contests/38-ninakachina-2.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -40,49 +40,49 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 
 ### 1. Manas
 
-![Desktop View](/pictures/contests/38-manas-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-manas-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. NinaKachina
 
-![Desktop View](/pictures/contests/38-ninakachina-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-ninakachina-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/38-ninakachina-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-ninakachina-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 3. hottubtrble
 
-![Desktop View](/pictures/contests/38-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 4. ChunChiaoLin
 
-![Desktop View](/pictures/contests/38-lin-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/38-lin-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-lin-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 5. Dumbredole
 
-![Desktop View](/pictures/contests/38-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-dumbredole-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/38-dumbredole-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-dumbredole-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/38-dumbredole-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-dumbredole-3.webp){: width="972" height="589" }
 _Third Visual_
 
 ### 6. leoramking2014
 
-![Desktop View](/pictures/contests/38-leora-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-leora-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 7. Snowblind1
 
-![Desktop View](/pictures/contests/38-snowblind-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-snowblind-1.webp){: width="972" height="589" }
 _First Visual_
 
 
@@ -100,7 +100,7 @@ Description of my target ~ A simple object
 4. I won it from the claw machine.
 5. not an expensive item.
 
-![Desktop View](/pictures/contests/38-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/38-target-1.webp){: width="972" height="589" }
 _Source: vacishevil_
 
 

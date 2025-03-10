@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/52-lin-3.png
+  path: /pictures/contests/52-lin-3.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -35,31 +35,31 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or do a rando
 
 ### 1. DARK SOUL
 
-![Desktop View](/pictures/contests/52-darksoul-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/52-darksoul-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. ChunChiaoLin
 
-![Desktop View](/pictures/contests/52-lin-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/52-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/52-lin-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/52-lin-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/52-lin-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/52-lin-3.webp){: width="972" height="589" }
 _Third Visual_
 
 ### 3. Blue Dev
 
-![Desktop View](/pictures/contests/52-bluedev-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/52-bluedev-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 4. hottubtrble
 
-![Desktop View](/pictures/contests/52-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/52-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/52-jeff-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/52-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
 
@@ -70,7 +70,7 @@ _Second Visual_
 
 ### Apollo 11 landing on the moon
 
-![Desktop View](/pictures/contests/52-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/52-target-1.webp){: width="972" height="589" }
 _Source: Dumbredole from SITN_
 
 

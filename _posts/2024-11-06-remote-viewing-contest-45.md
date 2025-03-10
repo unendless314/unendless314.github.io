@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Hit]
 tags: [Remote Viewing, Contest, Practice, Snowblind]
 pin: false
 image:
-  path: /pictures/contests/45-snowblind-1.jpg
+  path: /pictures/contests/45-snowblind-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -35,53 +35,53 @@ We will reward 20 USDT worth of ZPC tokens to the best submission. 😇
 
 ### 1. Dumbredole
 
-![Desktop View](/pictures/contests/45-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-dumbredole-1.webp){: width="972" height="589" }
 _First Visual on Focus 1_
 
-![Desktop View](/pictures/contests/45-dumbredole-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-dumbredole-2.webp){: width="972" height="589" }
 _Second Visual on Focus 1_
 
-![Desktop View](/pictures/contests/45-dumbredole-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-dumbredole-3.webp){: width="972" height="589" }
 _Third Visual on Focus 1_
 
-![Desktop View](/pictures/contests/45-dumbredole-4.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-dumbredole-4.webp){: width="972" height="589" }
 _Fourth Visual on Focus 1_
 
-![Desktop View](/pictures/contests/45-dumbredole-5.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-dumbredole-5.webp){: width="972" height="589" }
 _Fifth Visual on Focus 1_
 
-![Desktop View](/pictures/contests/45-dumbredole-6.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-dumbredole-6.webp){: width="972" height="589" }
 _First Visual on Focus 2_
 
-![Desktop View](/pictures/contests/45-dumbredole-7.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-dumbredole-7.webp){: width="972" height="589" }
 _Second Visual on Focus 2_
 
-![Desktop View](/pictures/contests/45-dumbredole-8.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-dumbredole-8.webp){: width="972" height="589" }
 _Third Visual on Focus 2_
 
 
 ### 2. leoramking2014
 
-![Desktop View](/pictures/contests/45-leora-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-leora-1.webp){: width="972" height="589" }
 _First Visual on Focus 1_
 
-![Desktop View](/pictures/contests/45-leora-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-leora-2.webp){: width="972" height="589" }
 _First Visual on Focus 2_
 
 ### 3. hottubtrble
 
-![Desktop View](/pictures/contests/45-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-jeff-1.webp){: width="972" height="589" }
 _First Visual on Focus 1_
 
-![Desktop View](/pictures/contests/45-jeff-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-jeff-2.webp){: width="972" height="589" }
 _First Visual on Focus 2_
 
 ### 4. Snowblind1
 
-![Desktop View](/pictures/contests/45-snowblind-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-snowblind-1.webp){: width="972" height="589" }
 _First Visual on Focus 1_
 
-![Desktop View](/pictures/contests/45-snowblind-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-snowblind-2.webp){: width="972" height="589" }
 _Second Visual on Focus 1_
 
 
@@ -92,13 +92,13 @@ _Second Visual on Focus 1_
 
 ### Cherry Davis
 
-![Desktop View](/pictures/contests/45-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-target-1.webp){: width="972" height="589" }
 _Source: Skoal from SITN_
 
-![Desktop View](/pictures/contests/45-target-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-target-2.webp){: width="972" height="589" }
 _Source: Skoal from SITN_
 
-![Desktop View](/pictures/contests/45-target-3.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/45-target-3.webp){: width="972" height="589" }
 _Source: Skoal from SITN_
 
 

@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Hit]
 tags: [Remote Viewing, Contest, Practice, NinaKachina]
 pin: false
 image:
-  path: /pictures/contests/39-ninakachina-1.jpeg
+  path: /pictures/contests/39-ninakachina-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -38,59 +38,59 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 
 ### 1. leoramking2014
 
-![Desktop View](/pictures/contests/39-leora-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-leora-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/39-leora-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-leora-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/39-leora-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-leora-3.webp){: width="972" height="589" }
 _Third Visual_
 
 ### 2. Dumbredole
 
-![Desktop View](/pictures/contests/39-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-dumbredole-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/39-dumbredole-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-dumbredole-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 3. hottubtrble
 
-![Desktop View](/pictures/contests/39-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/39-jeff-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/39-jeff-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-jeff-3.webp){: width="972" height="589" }
 _Third Visual_
 
-![Desktop View](/pictures/contests/39-jeff-4.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-jeff-4.webp){: width="972" height="589" }
 _Fourth Visual_
 
-![Desktop View](/pictures/contests/39-jeff-5.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-jeff-5.webp){: width="972" height="589" }
 _Fifth Visual_
 
-![Desktop View](/pictures/contests/39-jeff-6.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-jeff-6.webp){: width="972" height="589" }
 _Sixth Visual_
 
 ### 4. NinaKachina
 
-![Desktop View](/pictures/contests/39-ninakachina-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-ninakachina-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/39-ninakachina-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-ninakachina-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 5. ChunChiaoLin
 
-![Desktop View](/pictures/contests/39-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 Stage 1 - Ideograms
 
-![Desktop View](/pictures/contests/39-lin-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-lin-2.webp){: width="972" height="589" }
 _First Visual_
 
 Stage 2 - Sensory impressions
@@ -120,7 +120,7 @@ Aesthetic Impact: static/calm
 
 Stage 3 - Sketching
 
-![Desktop View](/pictures/contests/39-lin-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-lin-3.webp){: width="972" height="589" }
 _Second Visual_
 
 AOL
@@ -135,7 +135,7 @@ It’s a quiet and spacious environment without much going on. Dimly lighted, po
 
 ### 6. vanquish-evil
 
-![Desktop View](/pictures/contests/39-vanquishevil-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-vanquishevil-1.webp){: width="972" height="589" }
 _First Visual_
 
 ## Target Reveal
@@ -147,7 +147,7 @@ It's a future target that won't be known until 2024/12/31.
 
 ### shenanigans
 
-![Desktop View](/pictures/contests/39-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/39-target-1.webp){: width="972" height="589" }
 _Source: Katia from SITN_
 
 

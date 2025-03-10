@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/57-dumbredole-1.jpeg
+  path: /pictures/contests/57-dumbredole-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -34,23 +34,23 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or do a rando
 
 ### 1. dumbredole
 
-![Desktop View](/pictures/contests/57-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/57-dumbredole-1.webp){: width="972" height="589" }
 _First Visual_
 
 Felt like there were entities spinning in that funnel. General EI: dreadful. I don't think that's physical lighthouse, only a metaphor. Curious to know what it represents... 
 
 ### 2. lin
 
-![Desktop View](/pictures/contests/57-lin-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/57-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/57-lin-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/57-lin-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/57-lin-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/57-lin-3.webp){: width="972" height="589" }
 _Third Visual_
 
-![Desktop View](/pictures/contests/57-lin-4.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/57-lin-4.webp){: width="972" height="589" }
 _Fourth Visual_
 
 ### 3. ChatGPT 4o
@@ -97,7 +97,7 @@ Stage 6 - Final Model & Refinement
 
 ### Johnston Atoll
 
-![Desktop View](/pictures/contests/57-target-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/57-target-1.webp){: width="972" height="589" }
 _Source: Jeff from SITN_
 
 

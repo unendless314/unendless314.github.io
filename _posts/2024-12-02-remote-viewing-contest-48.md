@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/48-manas-1.jpg
+  path: /pictures/contests/48-manas-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -35,37 +35,37 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or do a rando
 
 ### 1. Dumbredole
 
-![Desktop View](/pictures/contests/48-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-dumbredole-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/48-dumbredole-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-dumbredole-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/48-dumbredole-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-dumbredole-3.webp){: width="972" height="589" }
 _Third Visual_
 
-![Desktop View](/pictures/contests/48-dumbredole-4.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-dumbredole-4.webp){: width="972" height="589" }
 _Fourth Visual_
 
-![Desktop View](/pictures/contests/48-dumbredole-5.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-dumbredole-5.webp){: width="972" height="589" }
 _Fifth Visual_
 
 ### 2. Manas
 
-![Desktop View](/pictures/contests/48-manas-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-manas-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. hottubtrble
 
-![Desktop View](/pictures/contests/48-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/48-jeff-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 4. ChunChiaoLin
 
-![Desktop View](/pictures/contests/48-lin-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 
@@ -76,10 +76,10 @@ _First Visual_
 
 ### Alien Reproduction Vehicles Flux Liner Spacecraft
 
-![Desktop View](/pictures/contests/48-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-target-1.webp){: width="972" height="589" }
 _Source: spacecase0 from SITN_
 
-![Desktop View](/pictures/contests/48-target-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/48-target-2.webp){: width="972" height="589" }
 _Source: spacecase0 from SITN_
 
 

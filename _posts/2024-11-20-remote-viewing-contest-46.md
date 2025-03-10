@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/46-manas-1.jpg
+  path: /pictures/contests/46-manas-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -35,22 +35,22 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 
 ### 1. ChunChiaoLin
 
-![Desktop View](/pictures/contests/46-lin-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/46-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. Snowblind1
 
-![Desktop View](/pictures/contests/46-snowblind-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/46-snowblind-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. Manas
 
-![Desktop View](/pictures/contests/46-manas-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/46-manas-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 4. hottubtrble
 
-![Desktop View](/pictures/contests/46-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/46-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
 
@@ -61,7 +61,7 @@ _First Visual_
 
 ### A Canon AV-1 film camera with an Agfatronic 252 flash attached
 
-![Desktop View](/pictures/contests/46-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/46-target-1.webp){: width="972" height="589" }
 _Source: Dumbredole from SITN_
 
 

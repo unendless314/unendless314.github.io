@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/15-jeff-2.jpeg
+  path: /pictures/contests/15-jeff-2.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -33,16 +33,16 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 
 ### 1. hottubtrble
 
-![Desktop View](/pictures/contests/15-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/15-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/15-jeff-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/15-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 2. ChunChiaoLin
 Circle, land, yellow, brown, subjects(few), structure, movement, something moving towards a central point.
 
-![Desktop View](/pictures/contests/15-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/15-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 
@@ -53,7 +53,7 @@ _First Visual_
 
 ### Pool C T33
 
-![Desktop View](/pictures/contests/15-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/15-target-1.webp){: width="972" height="589" }
 _Source: The Farsight Institute_
 
 

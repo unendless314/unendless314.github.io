@@ -7,7 +7,7 @@ categories: [Future Forecasting Group]
 tags: [Remote Viewing, Contest, Practice, KianaFeng]
 pin: false
 image:
-  path: /pictures/contests/ffg-2-kiana-1.jpeg
+  path: /pictures/contests/ffg-2-kiana-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -24,7 +24,7 @@ Describe the target person "PY32-WJ99".
 第一名可获得 250 USD 的奖金 💰
 
 
-![Desktop View](/pictures/contests/ffg-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-2.webp){: width="972" height="589" }
 _Source: Future Forecasting Group_
 
 
@@ -41,27 +41,27 @@ _Source: Future Forecasting Group_
 
 ### 1. coco_tankguns
 
-![Desktop View](/pictures/contests/ffg-2-kiana-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-2-kiana-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. hottubtrble
 
-![Desktop View](/pictures/contests/ffg-2-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-2-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/ffg-2-jeff-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-2-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/ffg-2-jeff-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-2-jeff-3.webp){: width="972" height="589" }
 _Third Visual_
 
 
 ## Target Reveal
 
-![Desktop View](/pictures/contests/ffg-2-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-2-target-1.webp){: width="972" height="589" }
 _Source: Future Forecasting Group_
 
-![Desktop View](/pictures/contests/ffg-2-target-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-2-target-2.webp){: width="972" height="589" }
 _Source: Future Forecasting Group_
 
 

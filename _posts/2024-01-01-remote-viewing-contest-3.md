@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/3-birdie-1.jpeg
+  path: /pictures/contests/3-birdie-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -39,7 +39,7 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 ### 2. ChunChiaoLin
 Flag, level topography, open environment, spacious, egg-shaped.
 
-![Desktop View](/pictures/contests/3-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/3-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. hottubtrble
@@ -68,7 +68,7 @@ Something to do with the moon, at half moon cycle, circle containers, very big, 
 
 I also got dark lightning or bark blue color inside, and light yellow or beige outside.
 
-![Desktop View](/pictures/contests/3-birdie-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/3-birdie-1.webp){: width="972" height="589" }
 _First Visual_
 
 
@@ -78,7 +78,7 @@ _First Visual_
 
 ### Pool B T146
 
-![Desktop View](/pictures/contests/3-target-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/3-target-1.webp){: width="972" height="589" }
 _Source: The Farsight Institute_
 
 

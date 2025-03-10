@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/4-leora-1.jpeg
+  path: /pictures/contests/4-leora-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -36,13 +36,13 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 ### 1. ChunChiaoLin
 Dry, Curves, Wavy, Waves, big shadowy thing to the left.
 
-![Desktop View](/pictures/contests/4-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/4-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. leoramking2014
 Circle, land, yellow, brown, subjects(few), structure, movement, something moving towards a central point.
 
-![Desktop View](/pictures/contests/4-leora-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/4-leora-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. hottubtrble
@@ -62,7 +62,7 @@ truck nearby/fencing/power or power generator/People
 
 ### 2015/12/09
 
-![Desktop View](/pictures/contests/4-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/4-target-1.webp){: width="972" height="589" }
 _Source: crviewer_
 
 

@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/33-example-5.jpg ### 改內文
+  path: /pictures/contests/33-example-5.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -36,57 +36,57 @@ We will reward 20 USDT worth of ZPC tokens to the best submission
 
 ### 1. hottubtrble
 
-![Desktop View](/pictures/contests/33-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/33-jeff-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/33-jeff-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-jeff-3.webp){: width="972" height="589" }
 _Third Visual_
 
 ### 2. leoramking2014
 
-![Desktop View](/pictures/contests/33-leora-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-leora-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. snowblind1
 
-![Desktop View](/pictures/contests/33-snowblind-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-snowblind-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/33-snowblind-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-snowblind-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 4. Example
 
 This is an indoor area with complex objects that are tall. There are white, grey tan read and green present. The colors are dull, matte. There is also tan and grouped colors. Textures include chalky, smooth, rough, spiky and serrated. The purpose of this area is to show and display to the public. There are very archaic things in here associated with heritage, origins, beginning, science. Study is also here as an idea.
 
-![Desktop View](/pictures/contests/33-example-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/33-example-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/33-example-3.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-3.webp){: width="972" height="589" }
 _Third Visual_
 
-![Desktop View](/pictures/contests/33-example-4.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-4.webp){: width="972" height="589" }
 _Fourth Visual_
 
-![Desktop View](/pictures/contests/33-example-5.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-5.webp){: width="972" height="589" }
 _Fifth Visual_
 
-![Desktop View](/pictures/contests/33-example-6.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-6.webp){: width="972" height="589" }
 _Sixth Visual_
 
-![Desktop View](/pictures/contests/33-example-7.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-7.webp){: width="972" height="589" }
 _Seventh Visual_
 
-![Desktop View](/pictures/contests/33-example-8.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-8.webp){: width="972" height="589" }
 _Eigth Visual_
 
-![Desktop View](/pictures/contests/33-example-9.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-example-9.webp){: width="972" height="589" }
 _Nineth Visual_
 
 
@@ -96,7 +96,7 @@ _Nineth Visual_
 
 ### THE DINOSAUR HALL OF THE SMITHSONIAN NATIONAL MUSEUM OF NATURAL HISTORY.
 
-![Desktop View](/pictures/contests/33-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/33-target-1.webp){: width="972" height="589" }
 _Source: Remote Viewing Instructional Services_
 
 

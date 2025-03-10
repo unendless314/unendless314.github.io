@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/51-lin-3.png
+  path: /pictures/contests/51-lin-3.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -36,45 +36,45 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or do a rando
 
 ### 1. Dumbredole
 
-![Desktop View](/pictures/contests/51-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-dumbredole-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/51-dumbredole-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-dumbredole-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 2. AndyDW
 
-![Desktop View](/pictures/contests/51-andydw-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-andydw-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/51-andydw-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-andydw-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/51-andydw-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-andydw-3.webp){: width="972" height="589" }
 _Third Visual_
 
 ### 3. vanquish-evil
 
-![Desktop View](/pictures/contests/51-vanquishevil-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-vanquishevil-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 4. hottubtrble
 
-![Desktop View](/pictures/contests/51-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/51-jeff-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 5. ChunChiaoLin
 
-![Desktop View](/pictures/contests/51-lin-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/51-lin-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-lin-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/51-lin-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-lin-3.webp){: width="972" height="589" }
 _Third Visual_
 
 
@@ -85,7 +85,7 @@ _Third Visual_
 
 ### January News Predictions
 
-![Desktop View](/pictures/contests/51-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/51-target-1.webp){: width="972" height="589" }
 _Source: Lin from ZenPandaCoin_
 
 

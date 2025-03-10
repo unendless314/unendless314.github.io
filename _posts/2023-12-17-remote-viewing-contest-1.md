@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Hit]
 tags: [Remote Viewing, Contest, Practice, ChunChiaoLin]
 pin: false
 image:
-  path: /pictures/contests/1-lin-1.jpeg
+  path: /pictures/contests/1-lin-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -50,7 +50,7 @@ A kitchen or room with big windows. Sliding doors it seems.
 This is a collection of random codes that have been generated automatically through a structured algorithm
 
 ### 5. ChunChiaoLin
-![Desktop View](/pictures/contests/1-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/1-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 water, circle in the air, silent, nature, tree, sky, land, airview? arrays of unknown stuff
@@ -59,7 +59,7 @@ water, circle in the air, silent, nature, tree, sky, land, airview? arrays of un
 铭文合作 0x6ee44B2F5928089d2b4B4daDE7dD4Ede2eF8dEC6
 
 ### 7. Tony46388084
-![Desktop View](/pictures/contests/1-leo-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/1-leo-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 8. xxxxxxpig
@@ -76,7 +76,7 @@ At target room, Fireplace or radiant heat, Radiate, Countryside scene, Heat radi
 
 ### Pool C T28
 
-![Desktop View](/pictures/contests/1-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/1-target-1.webp){: width="972" height="589" }
 _Source: The Farsight Institute_
 
 

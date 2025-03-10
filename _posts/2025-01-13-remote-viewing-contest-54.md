@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/54-lin-2.png
+  path: /pictures/contests/54-lin-2.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -37,50 +37,50 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or do a rando
 
 ### 1. vanquishevil
 
-![Desktop View](/pictures/contests/54-vanquishevil-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-vanquishevil-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. Dark Soul
 
-![Desktop View](/pictures/contests/54-darksoul-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-darksoul-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/54-darksoul-2.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-darksoul-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 3. Dumbredole
 
-![Desktop View](/pictures/contests/54-dumbredole-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-dumbredole-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/54-dumbredole-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-dumbredole-2.webp){: width="972" height="589" }
 _Second Visual_
 
 ### 4. hottubtrble
 
-![Desktop View](/pictures/contests/54-jeff-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 5. ChunChiaoLin
 
-![Desktop View](/pictures/contests/54-lin-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/54-lin-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-lin-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/54-lin-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-lin-3.webp){: width="972" height="589" }
 _Third Visual_
 
 ### 6. Manas
 
-![Desktop View](/pictures/contests/54-manas-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-manas-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/54-manas-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-manas-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/54-manas-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-manas-3.webp){: width="972" height="589" }
 _Third Visual_
 
 
@@ -96,7 +96,7 @@ _Third Visual_
 
 Viewer will describe the nearby significant structures and their original purpose.
 
-![Desktop View](/pictures/contests/54-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/54-target-1.webp){: width="972" height="589" }
 _Source: Blue Dev from SITN_
 
 

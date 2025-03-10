@@ -7,7 +7,7 @@ categories: [Future Forecasting Group]
 tags: [Remote Viewing, Contest, Practice, Leora]
 pin: false
 image:
-  path: /pictures/contests/ffg-1.jpeg
+  path: /pictures/contests/ffg-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -19,7 +19,7 @@ Describe the target "LK71-BC66" and its surrounding environment.
 请描述 Target 代号 LK71-BC66 为何，以及其所处之周遭环境 👁️
 
 
-![Desktop View](/pictures/contests/ffg-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-1.webp){: width="972" height="589" }
 _Source: Future Forecasting Group_
 
 
@@ -35,19 +35,19 @@ _Source: Future Forecasting Group_
 
 ### 1. leoramking2014
 
-![Desktop View](/pictures/contests/ffg-1-leora-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-1-leora-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/ffg-1-leora-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-1-leora-2.webp){: width="972" height="589" }
 _Second Visual_
 
 
 ## Target Reveal
 
-![Desktop View](/pictures/contests/ffg-1-target-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-1-target-1.webp){: width="972" height="589" }
 _Source: Future Forecasting Group_
 
-![Desktop View](/pictures/contests/ffg-1-target-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/ffg-1-target-2.webp){: width="972" height="589" }
 _Source: Future Forecasting Group_
 
 

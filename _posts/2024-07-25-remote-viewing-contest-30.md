@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Miss]
 tags: [Remote Viewing, Contest, Practice]
 pin: false
 image:
-  path: /pictures/contests/30-birdie-1.jpeg
+  path: /pictures/contests/30-birdie-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -34,20 +34,20 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 
 ### 1. BirdieM122782
 
-![Desktop View](/pictures/contests/30-birdie-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/30-birdie-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. ChunChiaoLin
 
-![Desktop View](/pictures/contests/30-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/30-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. hottubtrble
 
-![Desktop View](/pictures/contests/30-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/30-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/30-jeff-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/30-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
 
@@ -58,7 +58,7 @@ _Second Visual_
 
 ### 2011/06/01
 
-![Desktop View](/pictures/contests/30-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/30-target-1.webp){: width="972" height="589" }
 _Source: crviewer_
 
 

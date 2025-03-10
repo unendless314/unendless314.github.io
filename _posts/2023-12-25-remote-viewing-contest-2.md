@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Hit]
 tags: [Remote Viewing, Contest, Practice, Birdie]
 pin: false
 image:
-  path: /pictures/contests/2-lin-1.jpeg
+  path: /pictures/contests/2-lin-1.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -37,21 +37,21 @@ Restricted access, expansion, overseer, maayybe bridge or path?
 ### 2. ChunChiaoLin
 Circle, land, yellow, brown, subjects(few), structure, movement, something moving towards a central point.
 
-![Desktop View](/pictures/contests/2-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/2-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. hottubtrble
 
-![Desktop View](/pictures/contests/2-jeff-1.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/2-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/2-jeff-2.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/2-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/2-jeff-3.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/2-jeff-3.webp){: width="972" height="589" }
 _Third Visual_
 
-![Desktop View](/pictures/contests/2-jeff-4.png){: width="972" height="589" }
+![Desktop View](/pictures/contests/2-jeff-4.webp){: width="972" height="589" }
 _Fourth Visual_
 
 
@@ -60,7 +60,7 @@ _Fourth Visual_
 
 ### 2012/08/15
 
-![Desktop View](/pictures/contests/2-target-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/2-target-1.webp){: width="972" height="589" }
 _Source: crviewer_
 
 

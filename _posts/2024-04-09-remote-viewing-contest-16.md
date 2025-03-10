@@ -7,7 +7,7 @@ categories: [Weekly Remote Viewing Contest, Hit]
 tags: [Remote Viewing, Contest, Practice, Jeff]
 pin: false
 image:
-  path: /pictures/contests/16-jeff-3.jpeg
+  path: /pictures/contests/16-jeff-3.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
@@ -34,27 +34,27 @@ We will reward 20 USDT worth of ZPC tokens to the best submission, or randomly #
 
 ### 1. leoramking2014
 
-![Desktop View](/pictures/contests/16-leora-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/16-leora-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 2. ChunChiaoLin
 Mud, figure, land water interface, river near the ocean, structure in the distance, foliage/plants level topography, flat
 
-![Desktop View](/pictures/contests/16-lin-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/16-lin-1.webp){: width="972" height="589" }
 _First Visual_
 
 ### 3. hottubtrble
 
-![Desktop View](/pictures/contests/16-jeff-1.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/16-jeff-1.webp){: width="972" height="589" }
 _First Visual_
 
-![Desktop View](/pictures/contests/16-jeff-2.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/16-jeff-2.webp){: width="972" height="589" }
 _Second Visual_
 
-![Desktop View](/pictures/contests/16-jeff-3.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/16-jeff-3.webp){: width="972" height="589" }
 _Third Visual_
 
-![Desktop View](/pictures/contests/16-jeff-4.jpeg){: width="972" height="589" }
+![Desktop View](/pictures/contests/16-jeff-4.webp){: width="972" height="589" }
 _Fourth Visual_
 
 
@@ -65,7 +65,7 @@ _Fourth Visual_
 
 ### Pool C T181
 
-![Desktop View](/pictures/contests/16-target-1.jpg){: width="972" height="589" }
+![Desktop View](/pictures/contests/16-target-1.webp){: width="972" height="589" }
 _Source: The Farsight Institute_
 
 
