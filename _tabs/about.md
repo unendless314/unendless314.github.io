@@ -6,7 +6,7 @@ order: 4
 
 ## Lin: The survivor of a rug-pulled memecoin community 🐼
 
-![Desktop View](/pictures/common/lin-profile.jpg){: width="972" height="589" .w-50 .right}
+![Desktop View](/pictures/common/lin-profile.webp){: width="972" height="589" .w-50 .right}
 
 大家好，我是林君樵，是禅宗熊猫基金会（ZenPandaCoin Foundation）中仅存的志愿工作者，由于创办人 Bill 的发币实验而加入社区 🥰
 
@@ -27,7 +27,7 @@ order: 4
 
 ## Jeff: The Wandering Wizard of Remote Viewing 🧙‍♂️
 
-![Desktop View](/pictures/common/jeff-profile.jpg){: width="972" height="589" .w-50 .left}
+![Desktop View](/pictures/common/jeff-profile.webp){: width="972" height="589" .w-50 .left}
 
 Welcome to ZenPandaCoin, where remote viewing meets wizardly flair and a dash of Chinese tradition. 🐼
 
@@ -46,7 +46,7 @@ Remember, as a wandering wizard once said: A little foresight never hurt anyone,
 
 ## Birdie: The Novice Spirit Keeper on a Remote Viewing Adventure 🐈
 
-![Desktop View](/pictures/common/birdie-profile.jpg){: width="972" height="589" }
+![Desktop View](/pictures/common/birdie-profile.webp){: width="972" height="589" }
 
 Hey there! I’m Birdie, your friendly neighborhood remote viewer-in-training. 👩‍🎓
 
@@ -68,7 +68,7 @@ Who knows, I might just be the one to find your missing socks next! 😄
 
 ## Ora: A Loving Christian Mother with Out-of-This-World Experiences 👽
 
-![Desktop View](/pictures/common/leora-profile.jpg){: width="972" height="589" .w-50 .right}
+![Desktop View](/pictures/common/leora-profile.webp){: width="972" height="589" .w-50 .right}
 
 Step into the unknown with me! I’m Ora, a proud Christian mom with a little more than your everyday experiences. Between mysterious encounters with unseen forces and the occasional “borrowing” by aliens, life around here is anything but ordinary. 🛸
 

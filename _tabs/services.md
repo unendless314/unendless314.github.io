@@ -6,7 +6,7 @@ order: 5
 
 ## Remote Viewing
 
-![Desktop View](/pictures/common/189.jpg){: width="972" height="589" .w-50 .left}
+![Desktop View](/pictures/common/189.webp){: width="972" height="589" .w-50 .left}
 
 Remote viewing allows individuals to access distant locations or hidden information through Extrasensory Perception (ESP). Originally developed for espionage by the U.S. military and intelligence agencies, it has since evolved into a structured, trainable skill available for personal exploration. 👁️
 
