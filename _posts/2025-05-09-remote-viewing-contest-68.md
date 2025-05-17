@@ -61,6 +61,15 @@ _Third Visual_
 
 > 
 
+![Desktop View](/pictures/contests/68-target-1.webp){: width="972" height="589" }
+_First picture_
+
+![Desktop View](/pictures/contests/68-target-2.webp){: width="972" height="589" }
+_Second picture_
+
+![Desktop View](/pictures/contests/68-target-3.webp){: width="972" height="589" }
+_Third picture_
+
 
 ### spacecase0
 
