@@ -107,7 +107,7 @@ Before deploying, check the `_config.yml`{: .filepath} file and ensure the `url`
 
 Now you can choose _ONE_ of the following methods to deploy your Jekyll site.
 
-### Deploy Using Github Actions
+### Deploy Using GitHub Actions
 
 Prepare the following:
 
