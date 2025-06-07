@@ -78,7 +78,7 @@ TBA
 
 ## Group Discussion
 
-{% include embed/youtube.html id='hubAR_GwpJ0' %}
+{% include embed/youtube.html id='-ccJytJNpSY' %}
 
 
 ## Other Links
