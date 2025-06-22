@@ -70,10 +70,10 @@ _First Visual_
 ### Winner of The NBA Finals in June 2025.
 
 ![Desktop View](/pictures/contests/72-target-1.webp){: width="972" height="589" }
-_ChatGPT_
+_Target A, rendered by ChatGPT_
 
 ![Desktop View](/pictures/contests/72-target-2.webp){: width="972" height="589" }
-_ChatGPT_
+_Target B, rendered by ChatGPT_
 
 This is an Associative Remote Viewing (ARV) target.
 
