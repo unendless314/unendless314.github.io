@@ -90,7 +90,7 @@ _Second Visual_
 > https://farsight.org/sponsors/PoolC/jumbledpoollistC
 
 
-### 2012/08/15
+### The Walt Disney World Magic Kindgom
 
 ![Desktop View](/pictures/contests/56-target-1.webp){: width="972" height="589" }
 _Source: The Farsight Institute_
