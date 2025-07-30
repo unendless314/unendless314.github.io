@@ -87,6 +87,9 @@ Lin
 
 ## Group Discussion
 
+{% include embed/youtube.html id='r-webbgsUn0' %}
+
+
 ## Other Links
 
 1. [**Twitter Post**][Twitter Post]
