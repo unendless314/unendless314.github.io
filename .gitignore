@@ -1,7 +1,7 @@
 # Bundler cache
 .bundle
 vendor
-Gemfile.lock
+ # Keep lockfile tracked for reproducible builds
 
 # Jekyll cache & output
 .jekyll-cache

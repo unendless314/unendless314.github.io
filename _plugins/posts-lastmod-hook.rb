@@ -1,14 +1,21 @@
 #!/usr/bin/env ruby
 #
-# Check for changed posts
+# Check for changed posts using git, robust to edge-case paths
+
+require 'open3'
 
 Jekyll::Hooks.register :posts, :post_init do |post|
+  path = post.path.to_s
 
-  commit_num = `git rev-list --count HEAD "#{ post.path }"`
+  begin
+    commit_num_str, status = Open3.capture2('git', 'rev-list', '--count', 'HEAD', path)
+    commit_num = commit_num_str.to_i
 
-  if commit_num.to_i > 1
-    lastmod_date = `git log -1 --pretty="%ad" --date=iso "#{ post.path }"`.strip
-    post.data['last_modified_at'] = lastmod_date
+    if status.success? && commit_num > 1
+      lastmod_str, status2 = Open3.capture2('git', 'log', '-1', '--pretty=%ad', '--date=iso', path)
+      post.data['last_modified_at'] = lastmod_str.strip if status2.success?
+    end
+  rescue StandardError
+    # Ignore errors to avoid breaking the build when git is unavailable
   end
-
 end
